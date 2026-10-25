@@ -1,0 +1,662 @@
+[
+    {
+        "en": "am/are/is",
+        "wn": "τoÞ",
+        "sound": "/da/",
+        "meaning": "be"
+    },
+    {
+        "en": "he/his/she/her",
+        "wn": "τā",
+        "sound": "/de/",
+        "meaning": "general calling of any person"
+    },
+    {
+        "en": "I/me",
+        "wn": "Ī",
+        "sound": "/aɪ/",
+        "meaning": "self"
+    },
+    {
+        "en": "it",
+        "wn": "τo",
+        "sound": "/da/",
+        "meaning": "general calling of any thing"
+    },
+    {
+        "en": "they",
+        "wn": "τole",
+        "sound": "/dalε/",
+        "meaning": "general calling of any group of things"
+    },
+    {
+        "en": "we/us",
+        "wn": "Īle",
+        "sound": "/aɪlε/",
+        "meaning": "a group include self"
+    },
+    {
+        "en": "you",
+        "wn": "llō",
+        "sound": "/jo/",
+        "meaning": "the person being spoken or written to"
+    },
+    {
+        "en": "yes",
+        "wn": "lloν",
+        "sound": "/jaʃ/",
+        "meaning": "positive answer"
+    },
+    {
+        "en": "no",
+        "wn": "me",
+        "sound": "/fε/",
+        "meaning": "negetive answer"
+    },
+    {
+        "en": "The/this/those..",
+        "wn": "ωī",
+        "sound": "/waɪ/",
+        "meaning": "the (group of) thing that you are refering to"
+    },
+    {
+        "en": "you(all)",
+        "wn": "llōle",
+        "sound": "/jolε/",
+        "meaning": "the people being spoken or written to"
+    },
+    {
+        "en": "he/she(all)",
+        "wn": "τāle",
+        "sound": "/delε/",
+        "meaning": "general calling of multiple people"
+    },
+    {
+        "en": "Windish",
+        "wn": "Wιτι-ν",
+        "sound": "/wɪdɪ-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Arabic",
+        "wn": "Olobι-ν",
+        "sound": "/alabɪ-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Bengali",
+        "wn": "Bekolē-ν",
+        "sound": "/bεgali-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Chinese",
+        "wn": "Sīē-ν",
+        "sound": "/ʃaɪi-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "English",
+        "wn": "Ēklι-ν",
+        "sound": "/iglɪ-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Esperanto",
+        "wn": "Ezpeleτō-ν",
+        "sound": "/εspεlεdo-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "French",
+        "wn": "Mle-ν",
+        "sound": "/flε-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "German",
+        "wn": "Kēlo-ν",
+        "sound": "/gila-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Greek",
+        "wn": "Klē-ν",
+        "sound": "/gli-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Hindi",
+        "wn": "Θιτι-ν",
+        "sound": "/θɪdɪ-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Japanese",
+        "wn": "LLopolē-ν",
+        "sound": "/japali-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Korean",
+        "wn": "Kōlιo-ν",
+        "sound": "/golɪa-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Marathi",
+        "wn": "Moloθē-ν",
+        "sound": "/falaθi-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Portuguese",
+        "wn": "Pōlτōkē-ν",
+        "sound": "/poldogi-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Russian",
+        "wn": "Lōzιo-ν",
+        "sound": "/losɪa-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Spanish",
+        "wn": "Zpolē-ν",
+        "sound": "/spali-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Turkish",
+        "wn": "Tōkē-ν",
+        "sound": "/dogi-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Vietnamese",
+        "wn": "ωmeτlo-ν",
+        "sound": "/vεdla-ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "Windcup",
+        "wn": "Wιτkoc-",
+        "sound": "/wɪdgap-/",
+        "meaning": "name"
+    },
+    {
+        "en": "Jeremy",
+        "wn": "LLelōmē-",
+        "sound": "/jεlofi-/",
+        "meaning": "name"
+    },
+    {
+        "en": "mom/mother",
+        "wn": "Tō",
+        "sound": "/do/",
+        "meaning": "a female parent"
+    },
+    {
+        "en": "dad/father",
+        "wn": "Tι",
+        "sound": "/dɪ/",
+        "meaning": "a male parent"
+    },
+    {
+        "en": "dog/wolf",
+        "wn": "Tōτī",
+        "sound": "/dodaɪ/",
+        "meaning": "domesticated descendant of wolves."
+    },
+    {
+        "en": "book",
+        "wn": "Bēbī",
+        "sound": "/bibaɪ/",
+        "meaning": "a stack of paper being attatched together, usually contains information or story"
+    },
+    {
+        "en": "gay",
+        "wn": "kā",
+        "sound": "/ge/",
+        "meaning": "🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈"
+    },
+    {
+        "en": "a/one",
+        "wn": "o",
+        "sound": "/a/",
+        "meaning": "number"
+    },
+    {
+        "en": "two",
+        "wn": "τē",
+        "sound": "/di/",
+        "meaning": "successor of one"
+    },
+    {
+        "en": "three",
+        "wn": "θē",
+        "sound": "/θi/",
+        "meaning": "successor of two"
+    },
+    {
+        "en": "four",
+        "wn": "mō",
+        "sound": "/fo/",
+        "meaning": "successor of three"
+    },
+    {
+        "en": "five",
+        "wn": "mē",
+        "sound": "/fi/",
+        "meaning": "successor of four"
+    },
+    {
+        "en": "six",
+        "wn": "zι",
+        "sound": "/sɪ/",
+        "meaning": "successor of five"
+    },
+    {
+        "en": "seven",
+        "wn": "zele",
+        "sound": "/sεlε/",
+        "meaning": "successor of six"
+    },
+    {
+        "en": "eight",
+        "wn": "ēπ",
+        "sound": "/it/",
+        "meaning": "successor of seven"
+    },
+    {
+        "en": "nine",
+        "wn": "īc",
+        "sound": "/aɪp/",
+        "meaning": "successor of eight"
+    },
+    {
+        "en": "ten",
+        "wn": "τele",
+        "sound": "/dεlε/",
+        "meaning": "successor of nine"
+    },
+    {
+        "en": "zero",
+        "wn": "elō",
+        "sound": "/εlo/",
+        "meaning": "none"
+    },
+    {
+        "en": "hundred",
+        "wn": "moleπ",
+        "sound": "/falεt/",
+        "meaning": "ten to the poser of two"
+    },
+    {
+        "en": "thousand",
+        "wn": "moloπ",
+        "sound": "/falat/",
+        "meaning": "ten to the poser of three"
+    },
+    {
+        "en": "what",
+        "wn": "τōθo",
+        "sound": "/doθa/",
+        "meaning": ""
+    },
+    {
+        "en": "when",
+        "wn": "τōθe",
+        "sound": "/doθε/",
+        "meaning": ""
+    },
+    {
+        "en": "where",
+        "wn": "τōθā",
+        "sound": "/doθe/",
+        "meaning": ""
+    },
+    {
+        "en": "who",
+        "wn": "τōθō",
+        "sound": "/doθo/",
+        "meaning": ""
+    },
+    {
+        "en": "why",
+        "wn": "τōθι",
+        "sound": "/doθɪ/",
+        "meaning": ""
+    },
+    {
+        "en": "how",
+        "wn": "τōθoÞ",
+        "sound": "/doθa/",
+        "meaning": ""
+    },
+    {
+        "en": "(respect)",
+        "wn": "zāν/ν",
+        "sound": "/seʃ/ʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "(past)",
+        "wn": "θoν",
+        "sound": "/θaʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "(future)",
+        "wn": "koν",
+        "sound": "/gaʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "(present)",
+        "wn": "poν",
+        "sound": "/paʃ/",
+        "meaning": ""
+    },
+    {
+        "en": "f**k",
+        "wn": "llōκ",
+        "sound": "/jok/",
+        "meaning": ""
+    },
+    {
+        "en": "d**k",
+        "wn": "Θīc",
+        "sound": "/θaɪp/",
+        "meaning": ""
+    },
+    {
+        "en": "p***y",
+        "wn": "WMīc",
+        "sound": "/vaɪp/",
+        "meaning": ""
+    },
+    {
+        "en": "red",
+        "wn": "leτeπ",
+        "sound": "/lεdεt/",
+        "meaning": "a color"
+    },
+    {
+        "en": "brown",
+        "wn": "blōπ",
+        "sound": "/blot/",
+        "meaning": "a color"
+    },
+    {
+        "en": "orange",
+        "wn": "ōlākπ",
+        "sound": "/olegt/",
+        "meaning": "a color"
+    },
+    {
+        "en": "skin",
+        "wn": "zkēπ",
+        "sound": "/sgit/",
+        "meaning": "a color"
+    },
+    {
+        "en": "yellow",
+        "wn": "ēlōπ",
+        "sound": "/ilot/",
+        "meaning": "a color"
+    },
+    {
+        "en": "lime",
+        "wn": "līπ",
+        "sound": "/laɪt/",
+        "meaning": "a color"
+    },
+    {
+        "en": "green",
+        "wn": "klēπ",
+        "sound": "/glit/",
+        "meaning": "a color"
+    },
+    {
+        "en": "dark green",
+        "wn": "bloπ klēπ",
+        "sound": "/blat glit/",
+        "meaning": "a color"
+    },
+    {
+        "en": "light blue",
+        "wn": "ωīπ blōπ",
+        "sound": "/waɪt blot/",
+        "meaning": "a color"
+    },
+    {
+        "en": "aqua/cyan",
+        "wn": "okoπ",
+        "sound": "/agat/",
+        "meaning": "a color"
+    },
+    {
+        "en": "blue",
+        "wn": "blōπ",
+        "sound": "/blot/",
+        "meaning": "a color"
+    },
+    {
+        "en": "dark blue",
+        "wn": "bloπ blōπ",
+        "sound": "/blat blot/",
+        "meaning": "a color"
+    },
+    {
+        "en": "purple",
+        "wn": "pepōπ",
+        "sound": "/pεpot/",
+        "meaning": "a color"
+    },
+    {
+        "en": "pink",
+        "wn": "pιπ",
+        "sound": "/pɪt/",
+        "meaning": "a color"
+    },
+    {
+        "en": "Chinese Violet",
+        "wn": "ωmīoleπ",
+        "sound": "/vaɪalεt/",
+        "meaning": "a color"
+    },
+    {
+        "en": "dark/black",
+        "wn": "bloπ",
+        "sound": "/blat/",
+        "meaning": "a color"
+    },
+    {
+        "en": "gray",
+        "wn": "klāπ",
+        "sound": "/glet/",
+        "meaning": "a color"
+    },
+    {
+        "en": "light/white",
+        "wn": "ωīπ",
+        "sound": "/waɪt/",
+        "meaning": "a color"
+    },
+    {
+        "en": "adorable/cute",
+        "wn": "lomoπ",
+        "sound": "/lafat/",
+        "meaning": "pleasant and attractive (usually to young or small individual)"
+    },
+    {
+        "en": "angry",
+        "wn": "oklēπ",
+        "sound": "/aglit/",
+        "meaning": ""
+    },
+    {
+        "en": "beautiful",
+        "wn": "bēτιπ",
+        "sound": "/bidɪt/",
+        "meaning": ""
+    },
+    {
+        "en": "big",
+        "wn": "bιπ",
+        "sound": "/bɪt/",
+        "meaning": ""
+    },
+    {
+        "en": "bored",
+        "wn": "bōlπ",
+        "sound": "/bolt/",
+        "meaning": ""
+    },
+    {
+        "en": "brave",
+        "wn": "blāπ",
+        "sound": "/blet/",
+        "meaning": ""
+    },
+    {
+        "en": "busy",
+        "wn": "bēzēπ",
+        "sound": "/bisit/",
+        "meaning": ""
+    },
+    {
+        "en": "cheap",
+        "wn": "τēpπ",
+        "sound": "/dipt/",
+        "meaning": ""
+    },
+    {
+        "en": "clean",
+        "wn": "klēπ",
+        "sound": "/glit/",
+        "meaning": "a color"
+    },
+    {
+        "en": "clumsy/dumb",
+        "wn": "τōbπ",
+        "sound": "/dobt/",
+        "meaning": ""
+    },
+    {
+        "en": "cold",
+        "wn": "kōlπ",
+        "sound": "/golt/",
+        "meaning": ""
+    },
+    {
+        "en": "cruel",
+        "wn": "klōπ",
+        "sound": "/glot/",
+        "meaning": ""
+    },
+    {
+        "en": "delicious",
+        "wn": "τelēsāzπ",
+        "sound": "/dεliʃest/",
+        "meaning": ""
+    },
+    {
+        "en": "dirty",
+        "wn": "τeτιπ",
+        "sound": "/dεdɪt/",
+        "meaning": ""
+    },
+    {
+        "en": "excited",
+        "wn": "ezēτιπ",
+        "sound": "/εsidɪt/",
+        "meaning": ""
+    },
+    {
+        "en": "expensive",
+        "wn": "ezbezēωmπ",
+        "sound": "/εsbεsivt/",
+        "meaning": ""
+    },
+    {
+        "en": "good/nice/fine...",
+        "wn": "τoωmπ",
+        "sound": "/davt/",
+        "meaning": ""
+    },
+    {
+        "en": "small",
+        "wn": "mebιπ",
+        "sound": "/fεbɪt/",
+        "meaning": ""
+    },
+    {
+        "en": "correct",
+        "wn": "lloνπ",
+        "sound": "/jaʃt/",
+        "meaning": ""
+    },
+    {
+        "en": "accept",
+        "wn": "lloνκ",
+        "sound": "/jaʃk/",
+        "meaning": ""
+    },
+    {
+        "en": "ask",
+        "wn": "ozκ",
+        "sound": "/ask/",
+        "meaning": ""
+    },
+    {
+        "en": "die",
+        "wn": "τēlēκ",
+        "sound": "/dilik/",
+        "meaning": ""
+    },
+    {
+        "en": "do",
+        "wn": "τōκ",
+        "sound": "/dok/",
+        "meaning": ""
+    },
+    {
+        "en": "eat",
+        "wn": "ēκ",
+        "sound": "/ik/",
+        "meaning": ""
+    },
+    {
+        "en": "look/see/tell...",
+        "wn": "zēκ",
+        "sound": "/sik/",
+        "meaning": ""
+    },
+    {
+        "en": "speak",
+        "wn": "zbικ",
+        "sound": "/sbɪk/",
+        "meaning": ""
+    },
+    {
+        "en": "with",
+        "wn": "τe",
+        "sound": "/dε/",
+        "meaning": ""
+    },
+    {
+        "en": "without/ with no",
+        "wn": "τe me",
+        "sound": "/dε fε/",
+        "meaning": ""
+    },
+    {
+        "en": "and",
+        "wn": "llι",
+        "sound": "/jɪ/",
+        "meaning": ""
+    }
+]
